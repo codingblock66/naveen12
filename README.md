@@ -30,29 +30,38 @@ This is most important phase which includes model build- ing for prediction of d
 
 Procedure of Proposed Methodology-
 
+                           IMPORTING LIBRARIES
+
 Step1: Import required libraries, Import diabetes dataset.
 ![Screenshot (61)](https://user-images.githubusercontent.com/106168483/177718080-746c1563-4c6b-469a-9c18-fb96e2263108.png)
 
+                             RANDOM FOREST 
 
 Step2: Random forests or random decision forests is an ensemble learning method for classification, regression and other tasks that operates by constructing a multitude of decision trees at training time. For classification tasks, the output of the random forest is the class selected by most trees..
 ![Screenshot (62)](https://user-images.githubusercontent.com/106168483/177718263-3e0ea41b-b3f5-46db-b0ed-01369f9a2392.png)
 
+                            DECISION TREE 
+
 Step3: A decision tree is a decision support tool that uses a tree-like model of decisions and their possible consequences, including chance event outcomes, resource costs, and utility. It is one way to display an algorithm that only contains conditional control statements.
 ![Screenshot (63)](https://user-images.githubusercontent.com/106168483/177718467-35e9150b-d8e4-4b3a-bf4c-0a52fe7e5ba8.png)
 
+                             K- NEAREST NEIGHBOR
 
 Step4: Select the machine learning algorithm i.e. K- Nearest Neighbor, Support Vector Machine, Decision Tree, Logistic regression, Random Forest and Gradient boosting algorithm.The k-nearest neighbors (KNN) algorithm is a data classification method for estimating the likelihood that a data point will become a member of one group or another based on what group the data points nearest to it belong to. The k-nearest neighbor algorithm is a type of supervised machine learning algorithm used to solve classification and regression problems. 
 ![Screenshot (64)](https://user-images.githubusercontent.com/106168483/177718506-96dc1c29-6275-4e80-ae18-e90ba1bd05a7.png)
 
+                          LINEAR REGRESSION
 
 Step5: Linear regression models are used to identify the relationship between a continuous dependent variable and one or more independent variables. When there is only one independent variable and one dependent variable, it is known as simple linear regression, but as the number of independent variables increases, it is referred to as multiple linear regression. For each type of linear regression, it seeks to plot a line of best fit through a set of data points, which is typically calculated using the least squares method..
 ![Screenshot (65)](https://user-images.githubusercontent.com/106168483/177719027-902e4f1e-e43e-40fd-99a8-9a11add4e3d2.png)
 
+                          NAIVE BAYES CLASSIFIER
 
 Step6: Naive Bayes classifier assumes that the presence of a particular feature in a class is unrelated to the presence of any other feature. For example, a fruit may be considered to be an apple if it is red, round, and about 3 inches in diameter.
 ![Screenshot (66)](https://user-images.githubusercontent.com/106168483/177719088-83266858-b6fe-42d1-a1d1-3b88c4b9f38a.png)
 
-
+                       MATPLOTLIB
+                       
 Step7:Matplotlib is a python library used to create 2D graphs and plots by using python scripts. It has a module named pyplot which makes things easy for plotting by providing feature to control line styles, font properties, formatting axes etc.
 ![Screenshot (67)](https://user-images.githubusercontent.com/106168483/177719165-63963672-24e0-446b-85ae-d197b8911dba.png)
 
@@ -60,6 +69,8 @@ Step7:Matplotlib is a python library used to create 2D graphs and plots by using
 Step8: After analyzing based on various measures con- clude the best performing algorithm.
 
 ![Screenshot (69)](https://user-images.githubusercontent.com/106168483/177719316-b6e4a318-59db-4f0b-81a2-6bd65d54e1cd.png)
+
+                     ROC CURVE
 
 The ROC curve is a fundamental tool for diagnostic test evaluation. The diagnostic performance of a test, or the accuracy of a test to discriminate diseased cases from normal cases is evaluated using Receiver Operating Characteristic (ROC) curve analysis
 ![Screenshot (70)](https://user-images.githubusercontent.com/106168483/177719378-36a4379e-da82-43e4-942c-7dbc643e8979.png)
